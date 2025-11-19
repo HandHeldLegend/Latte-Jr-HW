@@ -13752,7 +13752,7 @@
 			)
 		)
 	)
-	(global_label "VBUS_SYS"
+	(global_label "VBUS"
 		(shape input)
 		(at 157.48 233.68 0)
 		(fields_autoplaced yes)
@@ -13764,7 +13764,7 @@
 		)
 		(uuid "16deca1d-db79-4f33-92a3-29778f89a78a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 169.839 233.68 0)
+			(at 165.3638 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20951,7 +20951,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(dnp yes)
 		(uuid "1de12b53-d0ef-4ded-9f28-fd702b9296ad")
 		(property "Reference" "J1"

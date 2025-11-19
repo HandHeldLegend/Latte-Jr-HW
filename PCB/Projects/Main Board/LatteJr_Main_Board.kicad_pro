@@ -553,7 +553,7 @@
       "plot": "../../Production/Main Board/gerbers/",
       "pos_files": "../../Production/Main Board/position/",
       "specctra_dsn": "",
-      "step": "../../../3D/Latte_Main_Board.step",
+      "step": "../../../3D/LatteJr_Main_Board.step",
       "svg": "",
       "vrml": ""
     },
