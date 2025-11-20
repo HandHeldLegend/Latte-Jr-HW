@@ -561,7 +561,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "..\\..\\Production\\Main Board\\Latte_Main_Board.csv",
+    "bom_export_filename": "..\\..\\Production\\Main Board\\LatteJr_Main_Board.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -754,6 +754,42 @@
           "group_by": false,
           "label": "Reviewed",
           "name": "Reviewed",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field6",
+          "name": "Field6",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CUI_purchase_URL",
+          "name": "CUI_purchase_URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "USBDNP",
+          "name": "USBDNP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PART_REV",
+          "name": "PART_REV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Purchase-URL",
+          "name": "Purchase-URL",
           "show": false
         }
       ],

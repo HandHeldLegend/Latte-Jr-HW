@@ -1,0 +1,13 @@
+### Footprint positions - created on 2025-11-20T00:57:52-0800 ###
+### Printed by KiCad version 9.0.6-rc2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                                                  PosX       PosY       Rot  Side
+J3        USB4056-03-A       USB405603A                                            92.6026   -17.7038    0.0000  bottom
+J4        Conn_01x04_Pin     5051100492                                           156.0830   -34.8412    0.0000  bottom
+J5        Conn_01x04_Pin     5051100492                                            29.2588   -34.8412    0.0000  bottom
+J6        Conn_01x02_Socket  Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal    65.8468   -50.8236    0.0000  bottom
+SW1       SW_Push            KSC-TE                                               110.9262   -62.0080    0.0000  bottom
+SW3       SW_Push            KSC-TE                                               127.0343   -61.0139   45.0000  bottom
+SW4       SW_Push            KSC-TE                                                58.2183   -61.0139  -45.0000  bottom
+## End

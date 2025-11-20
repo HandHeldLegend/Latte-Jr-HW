@@ -1,0 +1,12 @@
+### Footprint positions - created on 2025-11-19T20:35:30-0800 ###
+### Printed by KiCad version 9.0.6-rc2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                  PosX       PosY       Rot  Side
+C1        100n            C_0201_0603Metric    261.6708  -150.2410  -90.0000  top
+C2        100n            C_0201_0603Metric    245.7958  -147.7264  -90.0000  top
+J1        Conn_01x04_Pin  505110-0492_Ribbon   226.8677  -162.3732  -90.0000  top
+J2        Conn_01x04_Pin  505110-0492_Ribbon   280.5954  -162.3732  -90.0000  top
+U1        HAL4395         SOT-23-5             264.0978  -148.9613   90.0000  top
+U2        HAL4395         SOT-23-5             243.3618  -148.9613  -90.0000  top
+## End
