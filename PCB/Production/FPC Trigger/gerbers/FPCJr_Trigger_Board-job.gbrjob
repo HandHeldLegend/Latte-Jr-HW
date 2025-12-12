@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.6-rc2"
     },
-    "CreationDate": "2025-11-19T20:35:17-08:00"
+    "CreationDate": "2025-12-09T21:10:25-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -44,8 +44,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "FPCJr_Trigger_Board-F_Adhesive.gbr",
-      "FileFunction": "Glue,Top",
+      "Path": "FPCJr_Trigger_Board-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
       "FilePolarity": "Positive"
     },
     {
